@@ -64,6 +64,7 @@ struct FeaturedLandmarks: View {
     var landmark: [Landmark]
     var body: some View {
         landmark[0].image.resizable()
+        //PageView(features.map { FeatureCard(landmark: $0) })
     }
 }
 
