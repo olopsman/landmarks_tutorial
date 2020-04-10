@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DC03C6BD2440241F00E661A4 /* WatchMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC03C6BC2440241F00E661A4 /* WatchMapView.swift */; };
+		DC03C6BE24402A5600E661A4 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC904B802398F35E00FE6951 /* LandmarkList.swift */; };
 		DC2362F523964FC80097C4FE /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC2362F423964FC80097C4FE /* LandmarkRow.swift */; };
 		DC3A588223950E4F0005DB07 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3A588123950E4F0005DB07 /* Data.swift */; };
 		DC410D83243A021500C55D38 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC410D82243A021500C55D38 /* CategoryHome.swift */; };
@@ -578,6 +579,7 @@
 				DC03C6BD2440241F00E661A4 /* WatchMapView.swift in Sources */,
 				DC96498324401BE5003035A6 /* Profile.swift in Sources */,
 				DC96495F244019CD003035A6 /* ContentView.swift in Sources */,
+				DC03C6BE24402A5600E661A4 /* LandmarkList.swift in Sources */,
 				DC96498024401BE5003035A6 /* UserData.swift in Sources */,
 				DC96498424401BE5003035A6 /* Data.swift in Sources */,
 				DC96498524401BE5003035A6 /* CircleImage.swift in Sources */,
